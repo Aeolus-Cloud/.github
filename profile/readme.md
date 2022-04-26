@@ -8,6 +8,11 @@
 
 Fábrica de software, atuando com sistemas de video monitoramento.
 
+### Documentação 
+
+[Link do Notion](https://www.notion.so/clouddevteam/Tech-f35c74f0213f44a59f8faadd799bce99)
+
+
 <details> 
 	<summary>Projetos</summary>
 	<br>
